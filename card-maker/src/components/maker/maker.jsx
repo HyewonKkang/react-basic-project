@@ -34,7 +34,7 @@ function Maker({ authService }) {
             title: "Software Engineeer",
             email: 'ellie@gmail.com',
             fileName: 'ellie',
-            fileURL: 'ellie.png',
+            fileURL: null,
         }
     ])
     const history = useHistory();
